@@ -1,3 +1,3 @@
 # Python
 
-Сделано easy
+Сделано easy/meduim
